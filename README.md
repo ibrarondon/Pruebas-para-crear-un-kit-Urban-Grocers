@@ -17,3 +17,6 @@ Reporte de JIRA: https://drive.google.com/uc?id=18wpP3TBqO9QJ1-qswPSSavDAv9f0jG5
 - La función negative_assert_code_400() determina si no se creó el kit y devuelve el código 400.
 - La función negative_assert_no_body_code_400() determina si no se pudo crear un kit con cuerpo vacío y devuelve el código 400
 - Todas las pruebas positivas incluyen la verificación de que se haya generado el kit exitosamente.
+
+
+*Desarrollado por: Ibrahim Rondón - c13 QA Engineer, TripleTen*
