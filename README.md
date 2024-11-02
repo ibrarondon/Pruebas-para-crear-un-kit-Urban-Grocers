@@ -2,6 +2,7 @@
 Pruebas automatizadas para la creación de kits para un usuario haciendo uso de las API de Urban Grocers.
 
 apiDoc: https://cnt-aaa86845-c805-4251-afac-20529be65f3d.containerhub.tripleten-services.com/docs/
+Reporte de JIRA: https://drive.google.com/uc?id=18wpP3TBqO9QJ1-qswPSSavDAv9f0jG50&export=download
 
 ### Requisitos:
 - Necesitas tener instalados los paquetes pytest y request para ejecutar las pruebas.
