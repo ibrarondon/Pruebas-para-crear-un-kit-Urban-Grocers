@@ -25,7 +25,6 @@ Urban Grocers es una tienda por departamentos que ofrece entregas a domicilio. D
 
 Probé la funcionalidad para agregar un kit dentro de un usuario en particular, haciendo uso de las APIs y pruebas automatizadas. Al realizar las pruebas encontré que las APIs no tienen restricciones para los tipos de datos de los parámetros, las respuestas del servidor no son adecuadas ante pruebas negativas como: carros vacíos, pedidos sin productos o pedidos que se exceden de los límites de peso o cantidad. El equipo de desarrollo debe corregir estas funcionalidades básicas apegándose a los requisitos y condiciones de diseño, limitando correctamente los formatos en los parámetros así como sus valores mínimos y máximos.
 
-Reporte de JIRA: https://drive.google.com/uc?id=18wpP3TBqO9QJ1-qswPSSavDAv9f0jG50&export=download
-
+[Reporte de bugs en JIRA para funcionalidades de Urban Scooters](https://drive.google.com/uc?id=18wpP3TBqO9QJ1-qswPSSavDAv9f0jG50&export=download) 
 
 *Desarrollado por: Ibrahim Rondón - c13 QA Engineer, TripleTen*
