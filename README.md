@@ -17,7 +17,6 @@ Urban Grocers es una tienda por departamentos que ofrece entregas a domicilio. D
 
 ### Herramientas utilizadas:
 - Pycharm
-- Selenium
 - Postman
 - Jira
 
